@@ -22,7 +22,7 @@ h1 {
   background-color: pink;
 }
 
-.react-countdown-container {
+.countdown {
   display: flex;
   height: 100%;
 }
