@@ -1,6 +1,8 @@
 body {
   padding: 0;
   margin: 0;
+  background: #000 url('./static/img/bg.jpg') 50% 0 no-repeat;
+  background-size: cover;
 }
 
 html,
@@ -17,12 +19,13 @@ h1 {
 }
 
 .App {
+  padding: 0 24px;
   height: 100%;
   text-align: center;
-  background-color: pink;
 }
 
 .countdown {
   display: flex;
   height: 100%;
+  color: #FFF;
 }

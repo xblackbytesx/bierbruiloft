@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Counter from './components/countdown/countdown';
 import './App.css';
+import './static/img/bg.jpg';
 
 class App extends Component {
   render() {
